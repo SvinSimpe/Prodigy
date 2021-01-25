@@ -1,0 +1,9 @@
+C:\Users\marsv\source\repos\Prodigy\bin\Debug\Prodigy.exe.config
+C:\Users\marsv\source\repos\Prodigy\bin\Debug\Prodigy.exe
+C:\Users\marsv\source\repos\Prodigy\bin\Debug\Prodigy.pdb
+C:\Users\marsv\source\repos\Prodigy\obj\Debug\Prodigy.csprojAssemblyReference.cache
+C:\Users\marsv\source\repos\Prodigy\obj\Debug\Prodigy.Properties.Resources.resources
+C:\Users\marsv\source\repos\Prodigy\obj\Debug\Prodigy.csproj.GenerateResource.cache
+C:\Users\marsv\source\repos\Prodigy\obj\Debug\Prodigy.csproj.CoreCompileInputs.cache
+C:\Users\marsv\source\repos\Prodigy\obj\Debug\Prodigy.exe
+C:\Users\marsv\source\repos\Prodigy\obj\Debug\Prodigy.pdb
